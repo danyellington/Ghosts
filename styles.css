@@ -1,0 +1,56 @@
+body {
+  background: url("img/background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: red;
+  font-size: 20px;
+}
+
+.intro {
+  font-size: 30px;
+  font-family: 'Eater', cursive;
+}
+
+.intro h1 {
+  font-size: 50px;
+  color: green;
+}
+
+.crazy {
+  font-family: 'Metal Mania', cursive;
+}
+
+p {
+  background-color: black;
+
+}
+
+h3 {
+  font-family: 'Creepster', cursive;
+}
+
+.desserts {
+  background-color: salmon;
+}
+
+.desserts img {
+  height: 500px;
+}
+
+.desserts p {
+  font-size: 25px;
+  font-family: fantasy;
+  background-color: inherit;
+}
+
+.about {
+  color: blue;
+  background-color: red;
+  font-family: "Comic Sans MS";
+}
+
+.about p {
+  background-color: inherit;
+}
