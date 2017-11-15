@@ -24,7 +24,8 @@ body {
 
 p {
   background-color: black;
-
+  margin-top: 13px;
+  margin-bottom: 11px;
 }
 
 h3 {
